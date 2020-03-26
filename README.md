@@ -41,6 +41,7 @@ ping方式
 
 
 ### 漏洞挖掘
+对应下面的一些列渗透环境请点击https://github.com/yaunsky/Iproject/tree/master/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98/
 
 一个登陆站点可能存在的漏洞：sql注入、万能密码（sql注入）、弱口令，敏感信息泄漏，csrf，url跳转，xss，命令执行，越权访问，未授权访问，短信轰炸
 
